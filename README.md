@@ -6,7 +6,7 @@
 
 ### Languages:
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=swift&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
  
  ### You can find me here:
 
