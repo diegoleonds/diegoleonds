@@ -1,9 +1,11 @@
 ### Hello, I'm Diego! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+- 💻 Junior Java Developer
 - 🏡 Brazilian, living in Blumenau, SC
+- 🌱 I’m currently learning Design Patterns, TDD, Hibernate, Wildfly and JasperReports 
+- 👼 I care about write a readable code and with software quality
+- 📱 I’m familiar with Android apps development
 <!--- 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
  -->
 ### Languages:
 
