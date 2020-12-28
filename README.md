@@ -1,9 +1,10 @@
 ### Hello, I'm Diego! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🏡 Brazilian, living in Blumenau, SC
+<!--- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-
+ -->
 ### Languages:
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=swift&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
