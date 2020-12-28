@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**diegoleonds/diegoleonds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
+### Hello, I'm Diego! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,4 +8,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### You can find me here:
+   <a href="https://www.linkedin.com/in/diego-leon-482b14199"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
+</p>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=swift)](https://github.com/anuraghazra/github-readme-stats)
