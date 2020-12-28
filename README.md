@@ -14,7 +14,7 @@
  ### You can find me here:
  
  <p align="left">
-   <a href="https://www.linkedin.com/in/diego-leon-482b14199"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="margin-right:5px"></a>
+   <a href="https://www.linkedin.com/in/diego-leon-482b14199"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"></a>
 
 <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 </p>
