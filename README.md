@@ -5,7 +5,7 @@
 - 👼 I care about write a readable code and with software quality
 ### Languages:
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=swift,Objective-C,PureBasic&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleonds&layout=compact&theme=dark&hide=Objective-C,PureBasic&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
  
  ### You can find me here:
 
