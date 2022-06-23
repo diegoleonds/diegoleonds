@@ -1,4 +1,4 @@
-### Hello, I'm Diego! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello, I'm Diego! :cowboy_hat_face:
 - 💻 Android Developer
 - 🏡 Brazilian, living in Blumenau, SC
 - 🌱 Always looking to learn about new technologies and good code practices
